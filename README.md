@@ -33,6 +33,12 @@ O Jogo do Número Secreto é um jogo simples em que o jogador deve adivinhar um 
 </p>
 
 
+
+## Como acessar 
+
+Você pode acessar o projeto pelo [código fonte](https://github.com/carla11235813/jogo-do-numero-secreto/), pelo [link da página](https://jogo-do-numero-secreto-psi-one.vercel.app/) ou [baixá-lo](https://github.com/carla11235813/jogo-do-numero-secreto/archive/refs/heads/main.zip)
+
+
 ## Licença
 
 ![Static Badge](https://img.shields.io/badge/mit-blue?style=for-the-badge&label=license)
